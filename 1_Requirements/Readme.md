@@ -57,7 +57,17 @@
 | HR04 | User shall be able to multiply the matrices | Techincal |  IMPLEMENTED  |
 | HR05 | User shall be able to find determinant, transpose and inverse of a matrix | Techincal |  IMPLEMENTED  |
 
-
+##  Low level Requirements:
+ 
+| ID | Description | HLR ID | Status (Implemented/Future) |
+| ------ | --------- | ------ | ----- |
+| LR01 | (1). User must specify the size of the matrix.                                                    (2). The size specified is the dimensions of the square matrix | HR01 |  IMPLEMENTED  |
+| LR02 | Addition of two matrices can be done (1). Both the matrices need to be of same size(2). The size entered in the begining is same for both the matrices | HR02 |  IMPLEMENTED |
+| LR03 | Subtraction of two matrices is implemented in the same manner as addition| HR03 | IMPLEMENTED |
+| LR04 | Multiplication of two matrices is done on two square matrices of a specified size| HR04 |  IMPLEMENTED  |
+| LR05 | The determinant of a single matrix of a specified size is implemented| HR05 |  IMPLEMENTED  |
+| LR06 | The transpose of a single matrix operation is implemented | HR05 |  IMPLEMENTED  |
+| LR07 | To find the inverse of a matrix, both the determinant function and the transpose functions are used in it. The condition that a matrix is invertible is to check if the determinant of the matrix is equal to 0. | HR05 |  IMPLEMENTED  |
 
 
 
