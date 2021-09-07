@@ -3,8 +3,8 @@
 ### Miniproject 
 ![Matrix](https://user-images.githubusercontent.com/89777871/132370132-38b52589-57e0-4990-a71e-80d119327c1f.png)
 
-Build | Code Quality | Unity | [Git Inspector](using github.io option)
-------|----------|-------|--------------
+Build | Code Coverage | Code Quality | Unity | Git Inspector
+|---------|------------|------------|-----------|----------------
 [![C/C++ CI - Build Status](https://github.com/GallaRupesh/stepin_Matrix-Calculator/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/GallaRupesh/stepin_Matrix-Calculator/actions/workflows/c-cpp.yml) || [![CI-Coverage](https://github.com/GallaRupesh/stepin_Matrix-Calculator/actions/workflows/gcov.yml/badge.svg)](https://github.com/GallaRupesh/stepin_Matrix-Calculator/actions/workflows/gcov.yml) || [![Code Quality - Static Code - Cppcheck](https://github.com/GallaRupesh/stepin_Matrix-Calculator/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/GallaRupesh/stepin_Matrix-Calculator/actions/workflows/cppcheck.yml) || [![CodeQuality Dynamic Code Analysis Valgrind](https://github.com/GallaRupesh/stepin_Matrix-Calculator/actions/workflows/CodeQuality_Dynamic.yml/badge.svg)](https://github.com/GallaRupesh/stepin_Matrix-Calculator/actions/workflows/CodeQuality_Dynamic.yml) || [![Contribution Check - Git Inspector](https://github.com/GallaRupesh/stepin_Matrix-Calculator/actions/workflows/gitinspector.yml/badge.svg)](https://github.com/GallaRupesh/stepin_Matrix-Calculator/actions/workflows/gitinspector.yml) || [![Unit Testing - Unity](https://github.com/GallaRupesh/stepin_Matrix-Calculator/actions/workflows/unity.yml/badge.svg)](https://github.com/GallaRupesh/stepin_Matrix-Calculator/actions/workflows/unity.yml)
 
 
