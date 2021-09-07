@@ -2,8 +2,8 @@
 
 ## High Level Design 
 
-### Architectural Diagram![Flowchart]
-(https://user-images.githubusercontent.com/89777871/132326125-89f28dea-3521-4809-a8d3-ed55fb84759b.png)
+### Architectural Diagram
+![Architecture](https://user-images.githubusercontent.com/89777871/132326125-89f28dea-3521-4809-a8d3-ed55fb84759b.png)
 
 ### Use Case Diagram
 ![UsecaseDiagram](https://user-images.githubusercontent.com/89777871/132326431-29072729-805e-44cc-93ad-278bd3438ab7.png
